@@ -1,0 +1,14 @@
+
+  "uid": "a1b2c3d4e5",
+  "recipient": {
+    "type": "email",
+    "identity": "strigui@jems-group.com",
+    "hashed": false
+  },
+  "issuedOn": 1538352000,
+  "badge": "https://strigui.github.io/badge/badge-class.json",
+  "verify": {
+    "type": "hosted",
+    "url": "https://strigui.github.io/badge/badge-award.json"
+  }
+}
