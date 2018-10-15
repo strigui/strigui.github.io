@@ -1,0 +1,7 @@
+{
+	"name": "Speechmark by JEMS",
+	"description": "Disign Thinker Badge.",
+	"image": "https://strigui.github.io/badge.png",
+	"criteria": "https://yoursite.com/badge-criteria.html",
+	"issuer": "https://strigui.github.io/badge-issuer.json"
+}
