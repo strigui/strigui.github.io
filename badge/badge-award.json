@@ -5,7 +5,7 @@
     "identity": "strigui@jems-group.com",
     "hashed": false
   },
-  "issuedOn": 1538352000,
+  "issuedOn": "2018-10-01T18:00:00.000Z",
   "badge": "https://strigui.github.io/badge/badge-class.json",
   "verify": {
     "type": "hosted",
